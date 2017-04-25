@@ -10,7 +10,7 @@ table{
     border-right-color: orange;
     border-left-color: pink;
     border-style: double;
-    border-spacing: 10pt;
+    border-spacing: 9pt;
 }
 td{
   text-align: center;  
