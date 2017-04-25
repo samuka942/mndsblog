@@ -1,0 +1,39 @@
+body{
+    font-family: Amita;
+    font-size: 20px;
+    margin: auto;
+}
+table{
+    border-width: thin;
+    border-top-color: red;
+    border-bottom-color: blue;
+    border-right-color: orange;
+    border-left-color: pink;
+    border-style: double;
+    border-spacing: 10pt;
+}
+td{
+  text-align: center;  
+}
+.kerdes{
+    background-color: #f0ffff;
+    color: #6b8e23;
+    font-family: cursive;
+}
+.valasz{
+    background-color: #fffacd;
+    color: #ff4500;
+    font-family: sans-serif;
+}
+#elso{
+    color: red;
+}
+#masod{
+    color: orange;
+}
+#harm{
+    color: blue;
+}
+#negyed{
+    color: pink;
+}
